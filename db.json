@@ -1,0 +1,83 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Cream Ale",
+      "description": "A yummy Cream Ale that's easy to drink",
+      "credit": "Briess",
+      "og": "1.049",
+      "fg": "1.010",
+      "abv": "5%",
+      "ibu": 20,
+      "ingredients": [
+        "3.3 lbs Briess Golden Light LME",
+        "2.5 lbs American 6-Row",
+        "1.5 lbs Flaked Maize",
+        ".75 lbs Corn Sugar"
+      ],
+      "hops": [
+        "2 oz Fuggles hop pellets"
+      ],
+      "yeast": [
+        "White Labs Australian Ale",
+        "White Labs German Ale/Kolsch",
+        "Nottingham Dry Ale Yeast"
+      ],
+      "other": [
+        "3/4 cup Priming Sugar"
+      ],
+      "directions": [
+        "1. Steep grains in bag in 2.5 gal of water at 155F for 30 minutes",
+        "2. Remove grains and bring to boil",
+        "3. Remove kettle from heat and add extract, sugar and hops",
+        "4. Boil for 60 minutes",
+        "5. Combine wort with water to make 5 gallons.",
+        "6. Pitch yeast when wort temperature is between 70-75F. Make sure to oxygenate.",
+        "7. If using one-step fermentation, allow to sit in the ferementer at 65-70F for about 7 days, then use a sanitized hydrometer to ensure that the beer has reached its final gravity. If using two-step fermentation, rack to a secondary ferementer (glass carboy) after 5 days and allow it to sit for another 10-14 days before bottling.",
+        "8. Prime and bottle. When priming, dissolve corn sugar or dry malt extract in two pints of boiling water for 15 minutes. Pour the mixture into the empty bottling bucket and siphon the beer from the fermenter over it. This method ensures that the priming sugar will disperse evenly through your beer.",
+        "9. For proper carbonation, store your beer at 70F for at least the first week after bottling. This will allow the yeast to feed on the priming sugar and produce the necessary carbon dioxide needed for carbonation. It's ready to drink, but it will improve if you age your beer another two to three weeks."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Left Hand Milk Stout",
+      "description": "A yummy Milk Stout that's great with cookies",
+      "credit": "American Homebrewers Association",
+      "og": "1.068",
+      "fg": "1.016",
+      "abv": "7%",
+      "ibu": 19,
+      "ingredients": [
+        "3.85 lb Light Malt Extract",
+        "2.00 lb Pale Malt",
+        "0.75 lb Crystal 60L",
+        "0.75 lb Munich Malt",
+        "0.75 lb Chocolate Malt",
+        "0.50 lb Flaked Barley",
+        "0.50 lb Flaked Oats"
+      ],
+      "hops": [
+        "0.30 oz Magnum hop pellets (60 min)",
+        "1.00 oz Kent Golding hop pellets (10 min)"
+      ],
+      "yeast": [
+        "White Labs 001 California Ale Yeast"
+      ],
+      "other": [
+        "1.00 lb Lactose (15 minutes before end of boil",
+        "3/4 cup Priming Sugar",
+        "Irish Moss (optional)"
+      ],
+      "directions": [
+        "1. Mash grains with flaked barley and oats in steeping bag at 151F in 2 gallons of water for 90 minutes.",
+        "2. Rinse grain with 170F sparge water (about 1 gallon)",
+        "3. Boil will be 90 minutes long. Add hops according to times listed.",
+        "4. Add lactose during the last 15 minutes of the boil along with Irish Moss if desired.",
+        "5. After boil, cool your wort to 70F or slightly below. Add top off water to make 5 gallons.",
+        "6. Ferment at 70F for about a week.",
+        "7. Transfer to secondary with the final gravity has been reached and condition at 60F for at least one week.",
+        "8. Prime and bottle. Store for 2 weeks at 68-72F then sample."
+      ]
+    },
+  ]
+}
