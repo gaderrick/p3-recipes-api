@@ -78,6 +78,43 @@
         "7. Transfer to secondary with the final gravity has been reached and condition at 60F for at least one week.",
         "8. Prime and bottle. Store for 2 weeks at 68-72F then sample."
       ]
+    },
+    {
+      "id": 3,
+      "name": "Better than Perfect Double IPA",
+      "description": "",
+      "credit": "Briess Malting",
+      "og": "1.081",
+      "fg": "1.016",
+      "abv": "8.6%",
+      "ibu": 119,
+      "ingredients": [
+        "11 lb Briess CBW&#174; Pale Ale liquid malt extract",
+        "1.5 lb Briess Caramel 20L Malt"
+      ],
+      "hops": [
+        "5 oz Galaxy Hops 13% Alpha Acid",
+        "6 oz Citra&trade; Hops 12% Alpha Acid"
+      ],
+      "yeast": [
+        "2x White Labs WLP001 California Ale"
+      ],
+      "other": [
+        "3/4 cup Priming Sugar"
+      ],
+      "directions": [
+        "1. Steep Caramel Malt 20L at 154&#8457;F for 20 minutes in 3 gallons of water.",
+        "2. Remove grains and bring water up to boil. (Total boil time is 60 minutes)",
+        "3. Add 5.5 lb of CBW&#174 Pale Ale liquid malt extract.",
+        "4. Add 1 oz Galaxy Hops once a boil is reached.",
+        "5. After 30 minutes, add 2 oz of Galaxy hops and 2 oz of Citra&trade; hops.",
+        "6. Boil 20 more minutes and again add 2 oz of Galaxy hops and 2 oz of Citra&trade; hops.",
+        "7. Boil 10 more minutes and turn off heat.",
+        "8. Stir in 2 oz of Citra&trade; hops and 5.5 lb of CBW&#174 Pale Ale liquid malt extract.",
+        "9. Chill the wort to 65&#8457;F and aerate thoroughly.",
+        "10. Pitch 2 packages of yeast. Ferment in primary at 65-70&#8457;F for two weeks.",
+        "11. Move to a secondary fermenter and age an additional two weeks."
+      ]
     }
   ]
 }
