@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "Cream Ale",
+      "image": "cream-ale.jpg",
       "description": "A yummy Cream Ale that's easy to drink",
       "credit": "Briess",
       "og": "1.049",
@@ -41,6 +42,7 @@
     {
       "id": 2,
       "name": "Left Hand Milk Stout",
+      "image": "",
       "description": "A yummy Milk Stout that's great with cookies",
       "credit": "American Homebrewers Association",
       "og": "1.068",
@@ -82,6 +84,7 @@
     {
       "id": 3,
       "name": "Better than Perfect Double IPA",
+      "image": "ipa.jpg",
       "description": "",
       "credit": "Briess Malting",
       "og": "1.081",
